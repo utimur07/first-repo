@@ -1,1 +1,1 @@
-console.log('main.ts')
+console.log('a')
